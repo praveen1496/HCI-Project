@@ -1,0 +1,7 @@
+- Run index.html
+
+- Customer login and Spain tourism home page is ready
+
+- Flight attendant login page is ready
+
+- Flight attendant and Admin home page yet to be designed.
