@@ -34,6 +34,18 @@ body {
     visibility: hidden;
 }
 
+.clearfix1 {zoom: 1;}
+.clearfix1:after {
+    content: '.';
+    clear: both;
+    display: block;
+    height: 0;
+    visibility: hidden;
+     left: 130px;
+    right: -100px;
+    position:relative;
+}
+
 /* ----------------------------------------------- */
 /* REUSABLE COMPONENTS */
 /* ----------------------------------------------- */
